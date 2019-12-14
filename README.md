@@ -8,8 +8,8 @@ Screens - This is basically the user layout.
 calculator_brain : This where the mathematical functions take place,
 
 <p align="center">
-  <img src="bmicalculator/Screenshot_20191215-001556.png" width="350" title="hover text">
-  <img src="bmicalculator/Screenshot_20191215-001556.png" width="350" alt="accessibility text">
+  <img src="bmicalculator/Screenshot_20191215-001556.png" width="350" title="screenshot">
+  <img src="bmicalculator/Screenshot_20191215-001544.png" width="350" alt="screenshot">
 </p>
 ## Getting Started
 
