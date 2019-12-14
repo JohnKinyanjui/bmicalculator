@@ -1,6 +1,12 @@
 # bmicalculator
 
-A new Flutter application.
+The app is created by purely flutter. It basically calculates your bio mass using "dart : math" library.
+How to use the app for learning :
+
+Components package - Contains custom widgets like buttons and container which have been used e.g ReUsabe Card.
+Screens - This is basically the user layout.
+calculator_brain : This where the mathematical functions take place,
+
 
 ## Getting Started
 
