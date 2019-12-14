@@ -4,7 +4,8 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This flutter project was insipired by a driblle designer.
+link : https://dribbble.com/shots/4585382-Simple-BMI-Calculator
 
 A few resources to get you started if this is your first Flutter project:
 
