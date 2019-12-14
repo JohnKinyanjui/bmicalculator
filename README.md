@@ -7,7 +7,10 @@ Components package - Contains custom widgets like buttons and container which ha
 Screens - This is basically the user layout.
 calculator_brain : This where the mathematical functions take place,
 
-
+<p align="center">
+  <img src="bmicalculator/Screenshot_20191215-001556.png" width="350" title="hover text">
+  <img src="bmicalculator/Screenshot_20191215-001556.png" width="350" alt="accessibility text">
+</p>
 ## Getting Started
 
 This flutter project was insipired by a driblle designer.
